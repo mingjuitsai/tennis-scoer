@@ -1,5 +1,4 @@
 type MatchParams = [string, string];
-
 const pointToDisplay = ["0", "15", "30", "40"];
 
 class Match {

@@ -1,6 +1,6 @@
 # tennis-scoer
 
-A Typescript implementation of Tennis scoring system for the coding challange.
+Typescript implementation of tennis scorer
 
 ## Running locally
 
