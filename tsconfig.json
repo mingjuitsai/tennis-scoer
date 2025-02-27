@@ -8,7 +8,7 @@
     "outDir": "dist",
     "declaration": true,
     "sourceMap": true,
-    "lib": ["ESNext"],
+    "lib": ["ESNext", "DOM"],
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
